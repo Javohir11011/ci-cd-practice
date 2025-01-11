@@ -12,5 +12,5 @@ app.use('/test2', (req, res) => {
 })
 
 app.listen(1956, () => {
-  console.log("server jaaaa ajaajkdnsfjkaskfasbjasfkjasbfksjabfjasjkgbksjbgkaFDSGDGSDGFDSFGSDGSDLSKDGJKLSDFGKSDFGNSDGFSDFGDSGFsbjjgkasbgkasbgkasgaa 1956 port");
+  console.log("server running in  kkkkk kkk kk 1956 port");
 });
